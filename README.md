@@ -1,6 +1,6 @@
 # Hi, I'm Mahmoud Elseedy 👋🏾 👩🏾‍💻
 
-<img src="https://github.com/user-attachments/assets/68ee06c9-93cf-4831-a4b5-78f66e9f2d03" alt="banner that says Mahmoud Elseedy - Mechatronics Engineer">
+<img src="https://github.com/user-attachments/assets/f6c46fe9-a2b7-41c6-a30e-40be363be58a" alt="banner that says Mahmoud Elseedy - Mechatronics Engineer">
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
 
 
